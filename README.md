@@ -4,7 +4,7 @@ CAMPUS VICTOR LEVIS SASSO
   
 DESARROLLO DE SOFTWARE VII  
   
-Laboratorio #Crud
+Laboratorio #Auto
  
   
  	  	  	  	  	Fecha: 11-05-2026  I Semestre 2026  
